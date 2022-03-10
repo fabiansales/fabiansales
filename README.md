@@ -2,6 +2,14 @@
 <h3 align="center">I'm 35 years old and I'm a Systems Analyst.</h3>
 <h3 align="center">I'm a Linux Systems Administrator with 9+ years of experience in the field of administering hosting services and implementing new technologies. With my years of experience in the IT Field, my main goal is to be able to work on challenging projects within a great team, and to bring the best solution and experience to the end user.</h3>
 
+- :computer: SysAdmin Linux
+- :computer: MooseFS Service (sistema de archivos distribuidos)
+- :computer: Bash scripting (automatización de tareas)
+- :computer: WebServers (CentOS red hat, Ubuntu, Debian, Apache, nginx y MySQL)
+- :computer: PowerDNS (+ DNSDist )
+- :computer: Infraestructura Linux ITI
+- :computer: Instalación de paneles de control Web, cPanel, Plesk, Ferozo
+
 - 🌱 I’m currently learning **Python, docker**
 
 - 📫 How to reach me **fabian.sales@gmail.com**
